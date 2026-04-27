@@ -3,3 +3,5 @@ if number % 2 == 0:
     print("Even number")
 else:
     print("Odd number")
+
+#new comment to be pushed via VS Code 
